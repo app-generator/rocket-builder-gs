@@ -1,8 +1,8 @@
 {
-  "name": "minimal-typescript-setup",
+  "name": "rocket-builder-js",
   "private": true,
-  "version": "1.0.0",
-  "description": "Minimal TypeScript project setup for curious minds",
+  "version": "0.0.1",
+  "description": "Open-source Builder",
   "main": "index.js",
   "scripts": {
     "build": "tsc --build",
@@ -13,19 +13,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bobaekang/minimal-typescript-setup.git"
+    "url": "git+https://github.com/app-generator/rocket-builder-gs.git"
   },
   "keywords": [
     "minimal",
     "typescript",
     "setup"
   ],
-  "author": "Bobae Kang",
+  "author": "AppSeed",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bobaekang/minimal-typescript-setup/issues"
+    "url": "https://github.com/app-generator/rocket-builder-gs/issues"
   },
-  "homepage": "https://github.com/bobaekang/minimal-typescript-setup#readme",
+  "homepage": "https://github.com/app-generator/rocket-builder-gs#README.md",
   "devDependencies": {
     "@types/mocha": "^5.2.7",
     "@types/node": "^13.13.2",
